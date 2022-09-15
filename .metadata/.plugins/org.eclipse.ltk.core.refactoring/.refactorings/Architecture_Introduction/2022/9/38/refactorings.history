@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="자원 &apos;Architecture_Introduction/Architecture_Introduction.exerd&apos;을(를) &apos;CBP_PF_TEST_SYSTEM&apos;(으)로 이름 바꾸기" description="&apos;Architecture_Introduction.exerd&apos; 자원 이름 바꾸기" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Architecture_Introduction.exerd" name="CBP_PF_TEST_SYSTEM" stamp="1663200914188" updateReferences="true"/>
+</session>
